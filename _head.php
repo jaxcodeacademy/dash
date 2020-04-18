@@ -15,9 +15,9 @@
     <meta name="twitter:image" content="http://themepixels.me/dashforge/img/dashforge-social.png">
 
     <!-- Facebook -->
-    <meta property="og:url" content="http://themepixels.me/dashforge">
+    <meta property="og:url" content="https://jaxcode.com/dash">
     <meta property="og:title" content="DashForge">
-    <meta property="og:description" content="Responsive Bootstrap 4 Dashboard Template">
+    <meta property="og:description" content="Coding Bootcamp">
 
     <meta property="og:image" content="http://themepixels.me/dashforge/img/dashforge-social.png">
     <meta property="og:image:secure_url" content="http://themepixels.me/dashforge/img/dashforge-social.png">
@@ -32,7 +32,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 
-    <title>DashForge Changelog</title>
+    <title>Jax Code Docs</title>
 
     <!-- vendor css -->
     <link href="lib/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -40,39 +40,5 @@
 
     <!-- DashForge CSS -->
     <link rel="stylesheet" href="assets/css/dashforge.css">
-    <link rel="stylesheet" href="assets/css/dashforge.landing.css">
-
+    <link rel="stylesheet" href="assets/css/dashforge.auth.css">
   </head>
-  <body>
-    <div class="content">
-      <div class="container-fluid">
-        <h4 class="mg-b-20">Dashforge Changelog</h4>
-        <ul class="list-unstyled">
-          <li>
-            <h6>v1.0.0</h6>
-            <ul class="list-unstyled tx-color-03">
-              <li>- First Release</li>
-            </ul>
-          </li>
-          <li class="mg-t-20">
-            <h6>v1.1.0</h6>
-            <ul class="list-unstyled tx-color-03">
-              <li>- Added: Dark version</li>
-              <li>- Added: Starter page for default and dark version (blank.html &amp; blank-dark.html)</li>
-              <li>- Updated: Bootstrap to version 4.4.1</li>
-              <li>- Updated: Other NPM package dependencies</li>
-              <li>- Fixed: NPM package dependency errors. (Run 'npm audit' for details.)</li>
-              <li>- Updated GULP to 4.0.2</li>
-              <li>- Updated: gulp-sass to 4.0.2</li>
-              <li>- Updated: gulpfile.js (updated tasks code)</li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-    </div><!-- content -->
-
-    <script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-  </body>
-</html>

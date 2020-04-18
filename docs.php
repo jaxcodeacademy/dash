@@ -32,7 +32,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 
-    <title>DashForge Documentation</title>
+    <title>Jax Code Dashboard</title>
 
     <!-- vendor css -->
     <link href="lib/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
@@ -48,8 +48,8 @@
 
     <div id="sidebarMenu" class="sidebar sidebar-fixed wd-250 t-0">
       <div class="sidebar-body pd-x-25 pd-y-20">
-        <h3 class="docs-logo">dash<span>forge</span></h3>
-        <p class="docs-slogan">Responsive Dashboard Template</p>
+        <h3 class="docs-logo">jaxcode <span>docs</span></h3>
+        <p class="docs-slogan">Coding Bootcamp</p>
         <nav id="navDocs" class="nav nav-docs">
           <span class="nav-label mg-b-5">Browse Components</span>
           <a href="#introduction" class="nav-link">Introduction</a>

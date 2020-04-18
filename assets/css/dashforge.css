@@ -13197,10 +13197,10 @@ textarea.parsley-success:focus {
     color: #0168fa; }
 
 .df-logo-initial {
-  width: 40px;
+  width: 50px;
   height: 40px;
-  border: 2px solid #0168fa;
-  color: #0168fa;
+  border: 2px solid #003cb3;
+  color: #003cb3;
   border-radius: 6px;
   display: flex;
   align-items: center;

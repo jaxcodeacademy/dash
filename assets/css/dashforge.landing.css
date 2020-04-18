@@ -117,7 +117,7 @@
   width: 200px;
   height: 200px;
   background-color: #015de1;
-  background-image: url("../img/home-bg.png");
+  background-image: url("/img/bg_header_02.jpg");
   background-size: cover;
   border-radius: 20px;
   transform: rotate(30deg); }

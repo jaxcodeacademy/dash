@@ -1,3 +1,4 @@
+<? header("Location: page-signin.php"); ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -48,7 +49,7 @@
     <header class="navbar navbar-header navbar-header-fixed bd-b-0">
       <a href="" id="mainMenuOpen" class="burger-menu"><i data-feather="menu"></i></a>
       <div class="navbar-brand">
-        <a href="../index.html" class="df-logo">dash<span>forge</span></a>
+        <a href="../index.html" class="df-logo">jax<span>code</span></a>
       </div><!-- navbar-brand -->
       <div id="navbarMenu" class="navbar-menu-wrapper">
         <div class="navbar-menu-header">
@@ -99,6 +100,7 @@
                   <li class="nav-sub-item"><a href="template/classic/page-503.html" class="nav-sub-link"><i data-feather="file"></i> 503 Service Unavailable</a></li>
                   <li class="nav-sub-item"><a href="template/classic/page-505.html" class="nav-sub-link"><i data-feather="file"></i> 505 Forbidden</a></li>
                   <li class="nav-label mg-t-20">Other Pages</li>
+                  <li class="nav-sub-item"><a href="docs.php" class="nav-sub-link"><i data-feather="file-text"></i> Docs</a></li>
                   <li class="nav-sub-item"><a href="template/classic/page-timeline.html" class="nav-sub-link"><i data-feather="file-text"></i> Timeline</a></li>
                   <li class="nav-sub-item"><a href="template/classic/page-pricing.html" class="nav-sub-link"><i data-feather="file-text"></i> Pricing</a></li>
                   <li class="nav-sub-item"><a href="template/classic/page-help-center.html" class="nav-sub-link"><i data-feather="file-text"></i> Help Center</a></li>
@@ -115,20 +117,20 @@
         <a href="http://dribbble.com/themepixels" class="btn btn-social"><i class="fab fa-dribbble"></i></a>
         <a href="https://github.com/themepixels" class="btn btn-social"><i class="fab fa-github"></i></a>
         <a href="https://twitter.com/themepixels" class="btn btn-social"><i class="fab fa-twitter"></i></a>
-        <a href="https://themeforest.net/item/dashforge-responsive-admin-dashboard-template/23725961" class="btn btn-buy"><i data-feather="shopping-bag"></i> <span>Buy Now</span></a>
+        <a href="/bootcamp.php" class="btn btn-buy"><i data-feather="shopping-bag"></i> <span>Enroll</span></a>
       </div><!-- navbar-right -->
     </header><!-- navbar -->
 
     <div class="home-slider">
       <div class="home-lead">
-        <div class="df-logo-initial mg-b-15"><p>df</p></div>
+        <div class="df-logo-initial mg-b-15"><p>jcd</p></div>
         <p class="home-text">Jax Code Dashboard</p>
 
-        <h6 class="home-headline">Make your dashboard app more professional with this <span>super awesome</span> and <span>premium quality</span> dashboard design template.</h6>
+        <h6 class="home-headline">Become a <span>professional coder</span> and start a <span>new career</span> in 3 months.</h6>
 
         <div class="d-flex wd-lg-350">
           <a href="/bootcamp.php" class="btn btn-brand-01 btn-uppercase flex-fill">Enroll in Bootcamp</a>
-          <a href="#" class="btn btn-white btn-uppercase flex-fill mg-l-10">Login</a>
+          <a href="page-signin.php" class="btn btn-white btn-uppercase flex-fill mg-l-10">Login</a>
         </div>
 
         <div class="d-flex tx-20 mg-t-40">
