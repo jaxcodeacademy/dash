@@ -122,13 +122,13 @@
     <div class="home-slider">
       <div class="home-lead">
         <div class="df-logo-initial mg-b-15"><p>df</p></div>
-        <p class="home-text">Responsive Bootstrap 4 Dashboard Template</p>
+        <p class="home-text">Jax Code Dashboard</p>
 
         <h6 class="home-headline">Make your dashboard app more professional with this <span>super awesome</span> and <span>premium quality</span> dashboard design template.</h6>
 
         <div class="d-flex wd-lg-350">
-          <a href="https://themeforest.net/item/dashforge-responsive-admin-dashboard-template/23725961" class="btn btn-brand-01 btn-uppercase flex-fill">Buy Now - $20</a>
-          <a href="template/classic/dashboard-one.html" class="btn btn-white btn-uppercase flex-fill mg-l-10">Explore Demo</a>
+          <a href="/bootcamp.php" class="btn btn-brand-01 btn-uppercase flex-fill">Enroll in Bootcamp</a>
+          <a href="#" class="btn btn-white btn-uppercase flex-fill mg-l-10">Login</a>
         </div>
 
         <div class="d-flex tx-20 mg-t-40">
